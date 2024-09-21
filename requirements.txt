@@ -4,4 +4,4 @@ numpy
 openvino
 cv2
 time
-sklearn
+scikit-learn
