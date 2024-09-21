@@ -4,6 +4,7 @@ import os
 from openvino.runtime import Core
 from sklearn import neighbors
 import time
+import distutils
 
 # 변수 초기화
 data_dir = './collected_data'
