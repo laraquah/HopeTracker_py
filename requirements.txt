@@ -5,3 +5,4 @@ openvino
 cv2
 time
 scikit-learn
+openvino.runtime
