@@ -1,6 +1,4 @@
 import cv2
-import sys
-print(sys.executable)
 import numpy as np
 import os
 from openvino.runtime import Core
