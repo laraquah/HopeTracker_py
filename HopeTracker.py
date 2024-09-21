@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import os
 from openvino.runtime import Core
-from scikit-learn import neighbors
+from sklearn import neighbors
 import time
 
 # 변수 초기화
