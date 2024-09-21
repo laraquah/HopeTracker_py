@@ -7,3 +7,4 @@ time
 sklearn == 1.5.1
 openvino.runtime ==2024.0.0
 distutils == 3.11.8
+streamlit-camera-input-live ==0.2.0
