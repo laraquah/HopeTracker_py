@@ -6,3 +6,4 @@ cv2 == 4.9.0
 time
 sklearn == 1.5.1
 openvino.runtime ==2024.0.0
+distutils == 3.11.8
